@@ -3,8 +3,8 @@
 提供在线翻译，经验分享，话题讨论，
 根据每日浏览，点赞，评论获得的积分给予当前段位
 并进行积分排行
-直播间功能由于时间问题 还没有全部实现
-目前只是静态页面
+直播间功能由于时间问题目前只是静态页面 还没有全部实现
+
 
 ![管理员首页](https://github.com/WangWeiQi1/EF-/blob/master/images/1.PNG)
 ![管理员发表推荐](https://github.com/WangWeiQi1/EF-/blob/master/images/2.PNG)
