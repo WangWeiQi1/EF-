@@ -5,6 +5,8 @@
 并进行积分排行
 直播间功能由于时间问题目前只是静态页面 还没有全部实现
 
+目前该小程序已入围东北赛区前二十项目
+
 
 ![管理员首页](https://github.com/WangWeiQi1/EF-/blob/master/images/1.PNG)
 ![管理员发表推荐](https://github.com/WangWeiQi1/EF-/blob/master/images/2.PNG)
